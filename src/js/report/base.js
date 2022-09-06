@@ -141,4 +141,4 @@ function ExcelReport() {
     };
 }
 
-ExcelReport.prototype = Object.create(Base.prototype);
+ExcelReport.prototype = Object.create(BaseReport.prototype);
